@@ -1,0 +1,8 @@
+# dependencies
+backend/node_modules/
+
+# vscode files
+backend/.vs/
+
+# Native
+backend//
