@@ -5,3 +5,9 @@ backend/node_modules/
 backend/.vs/
 
 # Native
+node_modules
+
+# Expo
+.expo/
+dist/
+web-build/
